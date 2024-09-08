@@ -24,7 +24,7 @@ This project demonstrates how to transform a Raspberry Pi 3 into an Android Auto
 For a detailed guide on transforming your Raspberry Pi 3 into an Android Auto system, including hardware setup, software configuration, and 3D printing tips, check out the full article:
 
 <p align="center">
-    <a href="https://hugotronics.github.io/android-auto-crankshaft-project-diy-installation-with-raspberry-pi-3/" target="_blank">
+    <a href="https://hugotronics.github.io/android-auto-project-diy-installation-with-raspberry-pi-3/" target="_blank">
         <img src="https://img.shields.io/badge/Read%20the%20Full%20Article-%230084ff.svg?style=for-the-badge&logo=read-the-docs" alt="Read the Full Article">
     </a>
 </p>
