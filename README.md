@@ -68,6 +68,7 @@ Don’t miss the opportunity to explore this comprehensive guide and get the mos
 
 2. **Install Etcher**:
    - [Balena Etcher](https://www.balena.io/etcher): Use this tool to flash the Crankshaft image onto your microSD card.
+
     ![SD FLASH](https://github.com/user-attachments/assets/98d9ee9e-bc17-46f1-960a-ff7f0a1cc4ba)
  
 3. **Configure Crankshaft**:
