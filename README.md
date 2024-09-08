@@ -64,10 +64,12 @@ Don’t miss the opportunity to explore this comprehensive guide and get the mos
 
 1. **Download Crankshaft**:
    - [Crankshaft](https://getcrankshaft.com): A ready-to-use image for turning your Pi into an Android Auto head unit.
+    <img width="724" alt="Capture d’écran 2024-09-06 173817" src="https://github.com/user-attachments/assets/d02d0638-2767-4af4-83e2-ce4643b8074e">
 
 2. **Install Etcher**:
    - [Balena Etcher](https://www.balena.io/etcher): Use this tool to flash the Crankshaft image onto your microSD card.
-
+    ![SD FLASH](https://github.com/user-attachments/assets/98d9ee9e-bc17-46f1-960a-ff7f0a1cc4ba)
+ 
 3. **Configure Crankshaft**:
    - Insert the microSD card into the Raspberry Pi. Crankshaft will auto-configure for your phone when connected.
    ![VID20240906175113](https://github.com/user-attachments/assets/52f64be4-8e0b-4dda-aaa3-944abfb56c0f)
