@@ -40,6 +40,14 @@ Don’t miss the opportunity to explore this comprehensive guide and get the mos
 
 ## 🚀 Getting Started
 
+### Files Included
+
+1. **STL Files**:
+    - `STL files\Raspi_case_body.stl`: 3D model of the main body of the Raspberry Pi case, designed to house and protect the Raspberry Pi 3.
+    - `STL files\Raspi_cover.stl`: 3D model of the protective cover that snaps onto the case body.
+    - `STL files\Raspi_screen_cover.stl` : 3D model of the cover to securely hold the 7-inch touchscreen
+    - `STL files\Sunshade.STL` : 3D model of the sunshade designed to fit around the touchscreen.
+
 ### Materials Needed
 
 - **Raspberry Pi 3**: Ideal for Android Auto setup with Wi-Fi, Bluetooth, and USB ports.
@@ -82,6 +90,10 @@ Don’t miss the opportunity to explore this comprehensive guide and get the mos
 
 1. **3D Printed Mounting**:
    - Use custom 3D printed parts to securely mount the Raspberry Pi and screen on the dashboard.
+   - Recommended 3D Printing Settings:
+     - **Material**: PETG or ABS for high durability and resistance to temperature changes inside the car.
+     - **Layer Height**: 0.2mm for a good compromise between speed and print quality.
+     - **Infill**: 20-30% to provide sufficient strength while minimizing material use.
 
 2. **Non-Invasive Setup**:
    - Utilize Velcro strips and cable ties to position the components without drilling or permanently altering the car.
