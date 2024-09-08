@@ -10,7 +10,7 @@
 
 This project demonstrates how to transform a Raspberry Pi 3 into an Android Auto system for your vehicle using Crankshaft. The guide covers the complete setup, from hardware selection to software configuration and 3D-printed support structures, all while maintaining a non-invasive installation in your car.
 
-### Key Features
+### Features
 
 - **Low-cost Hardware Setup**: Leverage Raspberry Pi and affordable components.
 - **Crankshaft Software**: Turn your Pi into an Android Auto head unit with plug-and-play functionality.
